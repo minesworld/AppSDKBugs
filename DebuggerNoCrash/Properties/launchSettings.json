@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DebuggerNoCrash (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DebuggerNoCrash (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
