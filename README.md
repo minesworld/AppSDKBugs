@@ -23,3 +23,5 @@ This **happens** (**DebuggerCrash** project) using
 This does **not** happen (**DebuggerNoCrash** project) using
 - Microsoft.WindowsAppSDK 1.3.230602002
 - Microsoft.Windows.SDK.BuildTools 10.0.22621.755
+
+**Both projects run without any issues if started WITHOUT debugging from VisualStudio 2022**
